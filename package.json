@@ -1,0 +1,27 @@
+{
+  "name": "express-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanatan-Shrivastava/Express-WS.git"
+  },
+  "author": "Sanatan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanatan-Shrivastava/Express-WS/issues"
+  },
+  "homepage": "https://github.com/Sanatan-Shrivastava/Express-WS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

@@ -1,0 +1,1 @@
+-> Middleware is a function or a stack of functions with access to req and res objects;
